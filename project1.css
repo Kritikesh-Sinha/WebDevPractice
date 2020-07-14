@@ -1,0 +1,68 @@
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    width: 1200px;
+}
+#header
+{
+    width: 900px;
+    height: 550px;
+    background-image: url(https://analyticsindiamag.com/wp-content/uploads/2017/07/Ratan-Tata-lf.jpg);
+    background-size: cover;
+     background-color: black; 
+    margin-left: auto;
+    margin-right: auto;
+}
+#quote1
+{
+    height: 25;
+}
+p span
+{
+     background-color: white;
+    position: relative;
+    border: 0px solid black;
+}
+#text
+{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+#content
+{
+    width: 1200px;
+    height: 900px;
+     background-color: white; 
+    margin-top: auto;
+    margin-right: auto;
+}
+.event-date
+{
+    text-align: center;
+    height: 7px;
+    width: 100px;
+    font-size: 17px;
+    border-top: 2px solid #ccc;
+    float: left;
+    font-weight:bolder;
+    line-height: 26px;
+    padding: 4px 5px 6px 0;
+    clear: left;
+    margin: -1px 0 0 0;
+    
+}
+.desc
+{
+    float: left;
+    line-height: 15px;
+     background: #f9f9f9; 
+    width: 625px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 8px 12px 8px 8px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
